@@ -2,7 +2,7 @@
 
 A Java Applet that renders a top-down baseball stadium — complete with field, infield dirt, bases, coach's boxes, and grandstands — set to the sound of Fenway Park's crowd singing *Take Me Out to the Ball Game*.
 
-Built as a freshman year final project (Spring 2018) at the University of Oklahoma.
+Built as a freshman year final project (Spring 2018) at Prosper High School.
 
 ## Preview
 
